@@ -14,6 +14,10 @@ async function readFileData(file) {
     if (data[0] !== "{" && data[dataLen - 1] !== "}") {
       ans = 0;
     }
+    data = data.replace('{','').replace('}','');
+    let keyValues = data.split(":");
+    console.log(keyValues)
+    console.log(data);
     console.log(ans);
   });
 }
