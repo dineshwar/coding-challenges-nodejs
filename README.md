@@ -1,2 +1,2 @@
 # Coding challenges using nodejs
-Practice NodeJs
+Node js coding
