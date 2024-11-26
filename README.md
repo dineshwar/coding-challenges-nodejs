@@ -1,3 +1,3 @@
 # Coding challenges using nodejs
-Node js coding
+Node js coding challenges
 
